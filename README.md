@@ -10,7 +10,7 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsilves&show_icons=true&theme=transparent&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilves&hide_progress=false&count_private=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilves&hide_progress=false&count_private=true)
 
 
 
