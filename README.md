@@ -32,7 +32,7 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://pandas.pydata.org/" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="pandas"
-            width="75" height="40" /> 
+            width="80" height="40" /> 
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://posit.co/download/rstudio-desktop/" target="_blank">
