@@ -17,7 +17,7 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
         <a href="https://powerbi.microsoft.com/" target="_blank">
                 <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="90" height="40" />
         </a>
-        <a href="https://lookerstudio.google.com/reporting/bdd38eb7-8997-4a82-aae6-9465d5fa9a2e" target="_blank">
+        <a href="https://github.com/gabrielsilves/looker-studio" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png" alt="Looker" width="100" height="30" />
         </a>
 
