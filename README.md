@@ -20,8 +20,6 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
         <a href="https://lookerstudio.google.com/reporting/bdd38eb7-8997-4a82-aae6-9465d5fa9a2e" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png" alt="Looker" width="100" height="30" />
         </a>
-    
- </p>
 
 ##### Data Science
 <p align="left">
