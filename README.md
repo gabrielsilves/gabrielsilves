@@ -82,6 +82,6 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
         </a>
 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsilves&show_icons=true&theme=transparent&count_private=true)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsilves&show_icons=true&theme=transparent&count_private=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilves&hide_progress=false&count_private=true)
