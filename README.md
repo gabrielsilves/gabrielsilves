@@ -12,31 +12,36 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
 ##### Data Visualization
 <p align="left">
         <a href="https://public.tableau.com/app/profile/gabrielsilves/vizzes" target="_blank">
-                <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="tableau" width="120" height="30" />
+                <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="tableau" width="150" height="40" />
         </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://powerbi.microsoft.com/" target="_blank">
-                <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="90" height="40" />
+                <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="120" height="70" />
         </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://github.com/gabrielsilves/looker-studio" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png" alt="Looker" width="100" height="30" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png" alt="Looker" width="120" height="30" />
         </a>
 
 ##### Data Science
 <p align="left">
         <a href="https://www.mysql.com/" target="_blank">
                 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
-            alt="mysql" width="40" height="40" />
+            alt="mysql" width="60" height="60" />
         </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://pandas.pydata.org/" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="pandas"
-            width="55" height="30" /> 
+            width="75" height="40" /> 
         </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://posit.co/download/rstudio-desktop/" target="_blank">
                 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="R"
-            width="45" height="40" /> 
+            width="65" height="60" /> 
         </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://www.python.org" target="_blank">
-                <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="python" width="40" height="40" />
+                <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="python" width="60" height="60" />
         </a>
     
  </p>
@@ -45,19 +50,22 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
 <p align="left">
         <a href="https://www.mysql.com/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> 
+            alt="mysql" width="60" height="60" /> 
         </a> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://www.sqlite.org/" target="_blank">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
-            alt="sqlite" width="40" height="40" /> 
-        </a> 
+            alt="sqlite" width="60" height="60" /> 
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://www.oracle.com/" target="_blank">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> 
-        </a> 
+            alt="oracle" width="60" height="60" /> 
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <a href="https://www.ibm.com/br-pt/products/db2/database?utm_content=SRCWW&p1=Search&p4=43700077141678485&p5=e&gclid=CjwKCAiAgeeqBhBAEiwAoDDhn4-s8AESSW2B-WMaQKtM5hjT4t6oj8_YeLCGRQS95QkM-1XqkHL6JRoC8DgQAvD_BwE&gclsrc=aw.ds" target="_blank">
                 <img src="https://freepngimg.com/thumb/ibm/67893-ibm-database-computer-sql-db2-software.png"
-            alt="db2" width="40" height="40" /> 
+            alt="db2" width="60" height="60" /> 
         </a>
     
  </p>
@@ -78,10 +86,11 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
  ##### Other
 <p align="left">
          <a href="https://www.djangoproject.com/" target="_blank">
-                <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="django" width="45" height="20" />
+                <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="django" width="65" height="30" />
         </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.selenium.dev" target="_blank">
-                <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+                <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60" />
         </a>
 
 
