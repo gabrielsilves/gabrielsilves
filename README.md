@@ -64,7 +64,7 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
 
 ##### Cloud
 <p align="left">
-    <a href="https://azure.microsoft.com/" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <a href="https://azure.microsoft.com/" target="_blank" style="text-decoration: none; margin-right: 30px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="90" height="90" />
     </a>
     <a href="https://cloud.google.com/" target="_blank" style="text-decoration: none;">
