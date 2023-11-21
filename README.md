@@ -40,7 +40,7 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
             width="65" height="60" /> 
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://www.python.org" target="_blank">
+        <a href="https://github.com/gabrielsilves/scripts-python" target="_blank">
                 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="python" width="60" height="60" />
         </a>
     
