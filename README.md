@@ -15,7 +15,7 @@ Com mais de **quatro anos de experiência** em analise de dados, trilhei um cami
                 <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="tableau" width="150" height="40" />
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        <a href="https://powerbi.microsoft.com/" target="_blank">
+        <a href="https://github.com/gabrielsilves/power-bi" target="_blank">
                 <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="120" height="70" />
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
