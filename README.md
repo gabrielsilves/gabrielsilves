@@ -6,7 +6,7 @@
 - 🤿 **Analista de Dados** há mais de 4 anos
 - ⚡ **Graduando** em Analise e Desenvolvimento de Sistemas
 
-Com mais de **quatro anos de experiência** em analise de dados, trilhei um caminho diversificado, explorando **diversas tecnologias**, até me consolidar como especialista em Python e Data Visualization. Sou movido pela **autodisciplina** e dedicado a enfrentar qualquer desafio que se apresente no meu caminho.
+Em minha jornada como **Analista de Dados**, sou um entusiasta de novas tecnologias, com um foco especial em **Python** e **Data Visualization**. Minha trajetória é marcada pela autodisciplina, e estou sempre preparado para enfrentar os novos desafios que surgem ao longo do caminho.
 
 ## Skills
 ##### Data Visualization
